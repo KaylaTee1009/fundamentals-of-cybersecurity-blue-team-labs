@@ -10,8 +10,8 @@ network intrusion detection and honeypot analysis.
 | Module | Topic | Description |
 |---|---|---|
 | [Module 8](Module_8_Writeup.pdf) | Website Cloning & Malicious File Delivery | Cloned a real organizational website and weaponized it to deliver a malicious file, demonstrating how spoofed sites and trojanized documents are used in social engineering attacks. |
-| [Module 10](Module_10_Writeup) | SSH Honeypot Analysis with Kippo | Deployed a Kippo SSH honeypot and used Kippo-Graph to analyze attacker login attempts and replay a full attacker session, revealing real-world credential patterns and post-access behavior. |
-| [Module 11](Module_11_Writeup) | Intrusion Detection with Snort | Wrote custom Snort IDS rules and generated matching traffic (recon, credential leakage, unauthorized file access, and a Netcat backdoor) to validate detection end-to-end. |
+| [Module 10](Module_10_Writeup.pdf) | SSH Honeypot Analysis with Kippo | Deployed a Kippo SSH honeypot and used Kippo-Graph to analyze attacker login attempts and replay a full attacker session, revealing real-world credential patterns and post-access behavior. |
+| [Module 11](Module_11_Writeup.pdf) | Intrusion Detection with Snort | Wrote custom Snort IDS rules and generated matching traffic (recon, credential leakage, unauthorized file access, and a Netcat backdoor) to validate detection end-to-end. |
 
 ## Skills Demonstrated
 - Web server administration and HTML editing (Apache, `/var/www/html`)
